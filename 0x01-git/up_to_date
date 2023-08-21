@@ -1,0 +1,24 @@
+git is version control system 
+
+to link a repo with clone  ex. git clone https://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@github.com/sozoia/alx-pre_course.git
+README.md is read me file 
+
+Update your git identity : git config --global user.email "you@example.com"
+                           git config --global user.name "Your Name"
+
+
+git add .   to prepare any new file to be commited then pushed to server
+
+git commit -m ""    this like a comment to till what the changes 
+
+git push to upload in the server
+
+branch is like an isoleted coby of your work    to add a branch --    git branch branchname
+                                               to switch branch --   git checkout branch name 
+                                           to see current branch --  git branch
+                             
+
+to push your work use git push 
+if have upstream problem with push try this : git push --set-upstream origin new-branch
+
+               
