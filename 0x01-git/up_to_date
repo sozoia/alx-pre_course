@@ -1,3 +1,7 @@
+git pull 
+
+
+
 git is version control system 
 
 to link a repo with clone  ex. git clone https://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@github.com/sozoia/alx-pre_course.git
@@ -21,4 +25,9 @@ branch is like an isoleted coby of your work    to add a branch --    git branch
 to push your work use git push 
 if have upstream problem with push try this : git push --set-upstream origin new-branch
 
+<<<<<<< HEAD
 git pull is used when you want to make changes when there is another one making changes too (my understanding not sure)               
+=======
+               
+The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content. Merging remote upstream changes into your local repository is a common task in Git-based collaboration work flows
+>>>>>>> 0a5ae18a0c9c7bcbd7ea873822547e3f0c2be395
